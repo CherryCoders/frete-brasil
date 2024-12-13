@@ -1,0 +1,1 @@
+Biblioteca desenvolvido com intuito de apenas buscar calculo de preço da encomenda pelo correios, utilizando scrapping, por conta de seus endpoint SOAP estarem instaveis decidi elaborar essa solução, em breve deixo disponível como funciona essa biblioteca.
