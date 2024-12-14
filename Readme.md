@@ -5,9 +5,9 @@ Uma biblioteca que faz scrapping de correios para calcular o preço de entrega. 
 ```
 
 ```
-npm install @cherry-code/correios
-pnpm install @cherry-code/correios
-yarn add @cherry-code/correios
+npm install @cherry-code/frete-brasil
+pnpm install @cherry-code/frete-brasil
+yarn add @cherry-code/frete-brasil
 ```
 
 ## Como utilizar
@@ -15,7 +15,7 @@ yarn add @cherry-code/correios
 Existe apenas duas formas de você utilizar, uma delas utilizando o sistema de cache para evitar várias requisições desnecessárias, aqui esta um exemplo abaixo utilizando sistema de cache.
 
 ```ts
-import { ClientCorreios, CorreiosAPI } from "@cherry-code/correios";
+import { ClientCorreios, CorreiosAPI } from "@cherry-code/frete-brasil";
 
 const client = new ClientCorreios({
   cache: true,
