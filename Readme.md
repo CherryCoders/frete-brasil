@@ -4,6 +4,12 @@ Uma biblioteca que faz scrapping de correios para calcular o preço de entrega. 
 ⚠ No momento o calculo do frete funciona apenas para encomenda do tipo caixa selected esta biblioteca esta em versão alpha.
 ```
 
+```
+npm install @cherry-code/correios
+pnpm install @cherry-code/correios
+yarn add @cherry-code/correios
+```
+
 ## Como utilizar
 
 Existe apenas duas formas de você utilizar, uma delas utilizando o sistema de cache para evitar várias requisições desnecessárias, aqui esta um exemplo abaixo utilizando sistema de cache.
