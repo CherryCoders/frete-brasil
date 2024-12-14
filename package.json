@@ -1,5 +1,5 @@
 {
-  "name": "@cherry-code/correios",
+  "name": "@cherry-code/frete-brasil",
   "version": "0.0.1",
   "description": "Uma biblioteca que faz scrapping de correios para calcular o preço de entrega. Foi desenvolvido com intuito de não haver necessidade de criar uma conta para utilizar funções simples da plataforma, além que o endpoint aberto de correios anda instável.",
   "main": "dist/index.js",
