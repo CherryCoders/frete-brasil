@@ -7,6 +7,9 @@
   "scripts": {
     "test": "tsc && node dist/index.test.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CherryCoders/frete-brasil.git"
