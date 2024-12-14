@@ -7,6 +7,10 @@
   "scripts": {
     "test": "tsc && node dist/index.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CherryCoders/correios.git"
+  },
   "keywords": [],
   "author": "Eduardo Melo",
   "license": "MIT",
