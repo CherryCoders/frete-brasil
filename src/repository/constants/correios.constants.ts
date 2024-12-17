@@ -8,6 +8,7 @@ export const ServicesType = {
   PAC: "04510",
   CORREIOS_DIRECT_DELIVERY: "31283",
   CORREIOS_MINI_SENDS: "04227",
+  SEDEX: "04014",
 };
 
 export const BoxType = {
