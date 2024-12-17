@@ -1,6 +1,6 @@
 {
   "name": "@cherry-code/frete-brasil",
-  "version": "0.0.7",
+  "version": "0.0.1",
   "description": "Uma biblioteca que faz scrapping de frete-brasil para calcular o preço de entrega. Foi desenvolvido com intuito de não haver necessidade de criar uma conta para utilizar funções simples da plataforma, além que o endpoint aberto de correios anda instável.",
   "main": "dist/index.js",
   "typings": "dist/declarations/index.d.ts",
