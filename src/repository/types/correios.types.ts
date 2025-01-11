@@ -16,6 +16,10 @@ export namespace CorreiosAPI {
       formatedPrice: string;
       price: number;
     };
+    delivery: {
+      postedAt: string;
+      days: number;
+    };
   };
 
   export type Configuration = {
